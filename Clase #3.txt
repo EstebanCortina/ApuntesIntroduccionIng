@@ -1,1 +1,44 @@
-Prueba.
+Para llegar al Resultado esperado se necesitan herramientas distintas para cada caso.
+
+Validacion de requerimientos:
+
+  Aseguramiento de la calidad:
+        -Evolucion-
+  Necesitamos saber si a futuro se le puede agregar nuevas caracteristicas.
+  Si a futuro va a poder ser utilizado en nuevos dispositivos.
+  No debe caducar tan pronto.
+  Todo esto se evalua en la Validacion del software.
+
+  Para medir la satisfaccion en la validacion del SW podemos usar PARAMETROS.
+    -Criterios de aceptacion-
+  Cada una de las distintas funcionalidades
+  van a usar estos parametros para evaluarse.
+  Se usa un documento de pruebas en donde se van anotando si aprueba o no los criterios.
+  Si se aprueban estos criterios, en teoria le deberia de gustar el producto al cliente.
+
+  Dependiendo de las caracteristicas con las que se desarrollaro el software, los criterios par su evaluacion van a ser especificos y distintos a los de otros proyectos.
+
+  red social  para empresa
+  desarrolla productos para bebes
+  -Necesita que funcione SOLO con los correos de la empresa.
+  -Necesita que la RS tenga colores de acuerdo a las caracteristicas del producto, amigables.
+  -Que cada usuario tenga un perfil personal en donde la gente pueda poner sus experiencias laborales satisfactorias dentro de la empresa.
+
+
+  Sistema de reacciones en las publicaciones de los usuarios.
+  solicitud de amistades o de seguimiento.
+  Que tenga una version en aplicacion nativa para celular.
+
+  NO TRABAJAR CON SUPOSICIONES.
+  todo debe estar CLARO y CONSCISO
+  si no sabemos algo hay que pregunatar, no suponer.
+
+  Si tenemos sugerencias, se deben platicar con el stake holder primero para despues implementar,
+  pero eso significaria que debemos REGRESAR a la ingenieria de especificaciones para modificar los requerimientos.
+  Brincar de etapas a otras etapas, se llama ITERACION. Es necesario cuando hay cambios.
+  
+
+
+
+
+
