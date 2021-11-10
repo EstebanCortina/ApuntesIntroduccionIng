@@ -1,0 +1,71 @@
+El maestro trajo a Arantx Villaseñor para platicarnos
+sobre como es su trabajo de tester
+Estudio iingenieria de software
+Fue su primer trabajo
+Trabajo de QAE en una empresa en colima
+y luego la comunco una empresa de  guadalajara.
+
+QA es su trabajo en la empresa que es una plataforma de eComerce.
+Asegura Calidad.
+Previene y encuentra deectos.
+Ve que se cumplan los requeriimientos.
+Regaña a los programadores (la parte diveretida segun ella).
+Se encarga de romper los codigos del 
+desarrolladores para eencontrar en donde falla.
+
+No existe un proceso tal cual para las pruebas,
+depende mucho de la metodología, niveles de prueba,
+el producto/negocio.
+Presupuesto, tiempo.
+Etc.
+
+Roles:
+-No son definitivos ni universales-
+QA Engineer=hace de todo
+Test Managere =es como un project manager
+Test Engineer=esta mas centrado en un tipo de test
+Test Analyst=esta mas enfocado en que el producto funcione desde el punto de vista del negocio
+Test Automation Engineer=realizan pruebas automatizadas.
+
+**Buscar que es una prueba de regresión**
+
+Dia a dia de Arantxa:
+
+Satand up meeting = es con el product Owner, ahi se da el estatus dee lo que se hizo el dia anterior y lo que se va a hacer
+
+Retrospective meeting =es un documento de lo que se hizo en los sprints anteriores
+Sprint plannng meeting = se pone un tema, titulo para tomar en cuenta, ticket, bug.
+
+Ticket = Algo a realizar.
+
+Releas Blocker es algo que se debe resolver rapido.
+Si no se resuelve, no se puede sacar a produccion.
+
+Cada quien sigue sus pruebas para cada ticket.
+Se documenta el resultado.
+
+Princpos de Pruebas:
+Las pruebas demuestran presencia de defectos,, no la ausencia.
+Pruebas exahustivas son imposibles.
+Pruebas en etapas tempranas ahorra tiempo y dinero.
+Los defectos se agrupan.
+Paradoja del pesticida. ?
+Las pruebas dependen del contexto
+La ausencia de defectos es una mentira.
+
+Como ser un Buen QA:
+Ingles.
+Comuniación Efectiva y Asertiva
+Curiosidad
+Observadores para notar los detalles.
+No suponer.
+Pensamiento Lateral = resolver un problema fuera de la caja.
+
+Buscar Tecnicas para diseñar pruebas.arilevhz@gmail.com 
+
+
+
+
+
+
+
