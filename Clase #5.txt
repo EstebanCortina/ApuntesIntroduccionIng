@@ -1,0 +1,23 @@
+Despliegue y Evolucion de SW
+
+Es importante encontrar un enfoque durante nuestra etapa de estudiante
+para saber en que nos gustaria enfocarnos.
+
+Todo software es perfetible
+(se puedeje mejorar)
+
+Pruebas de Integracion:
+  Es cuando integramos modulos y probamos que el sistema completo funcione.
+
+  Una vez con el software ya testeado y con una calidad asegurada sigue desplegarlo
+
+  El despliegue no es mandarlo a pruebas, se manda a un ambiente real para ver su comportamiento. Es un proceso de USO.
+
+  Proceso de despliegue:
+    Se manda el software a Un ambiente de produccion que es un espacio en donde usuarios van a usar el sistema de manera cotidiana como si lo usaran normalmente y notar los errores que se presentan. Es un grupo de usuarios o el cliente que lo prueba. En casos especiales el proceso se hace de manera masiva pereo con un programa de FeedBack para mandar los errores que se presenten. 
+
+    Jamas se deja que el usuario pruebe el software en nuestro espacio de produccion.
+
+    Tratar de predecir como va a funcionar nuestro SW en los posibles millones de computadores, es imposibles. Cada computadora tiene una configuracion especifica.
+
+    Las etapas de despliegue son las VERSIONES. Mejoras.
